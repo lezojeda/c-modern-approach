@@ -1,0 +1,6 @@
+# Build results
+x64/
+Debug/
+
+# Visual Studio cache/options directory
+.vs/
